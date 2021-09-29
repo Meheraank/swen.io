@@ -35,3 +35,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![image](https://user-images.githubusercontent.com/89431966/135181812-af915801-4675-4af6-a7cd-6324ac94b1d1.png)
+I am Meheraan Khan. I attended Stuyvesant High School, which is a school in Manhattan. One of my favorite things to do in my freetime is play soccer with my friends. I typiclly  
+like staying indoors. Because of the pandemic, my fitness drastically decreased so recently I have made the decision to start going to the gym and getting back to my old self. 
+Overall, I'm just an average human with nothing particularly exciting going on at the moment.
+
+[Link](www.se.rit.edu)
+-How to get along better with teammates (I'm struggling)
+-How the development process is when making software
+-What to do if a project or product is a complete failure
