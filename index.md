@@ -41,7 +41,7 @@ I am Meheraan Khan. I attended Stuyvesant High School, which is a school in Manh
 like staying indoors. Because of the pandemic, my fitness drastically decreased so recently I have made the decision to start going to the gym and getting back to my old self. 
 Overall, I'm just an average human with nothing particularly exciting going on at the moment.
 
-[Link](www.se.rit.edu)
+[Link](http://www.se.rit.edu/~swen-101/00/index.html)
 -How to get along better with teammates (I'm struggling)
 -How the development process is when making software
 -What to do if a project or product is a complete failure
